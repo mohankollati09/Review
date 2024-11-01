@@ -1,0 +1,2 @@
+This is the second file which is using for branch merging 
+Branch name - Copy1
